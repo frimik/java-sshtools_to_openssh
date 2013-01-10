@@ -1,0 +1,2 @@
+#! /bin/sh
+java -classpath '.:j2ssh/j2ssh-core-0.2.9.jar:commons-logging-1.1.1/commons-logging-1.1.1.jar' SSHToolsToOpenSSH $*
